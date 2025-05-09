@@ -1,2 +1,23 @@
 # DP-700-Create-a-medallion-architecture-in-a-Microsoft-Fabric-lakehouse
 In this exercise you will build out a M.A in a Fabric lakehouse using NB. You will create a workspace, create a lakehouse, upload data to the bronze layer, transform the data and load it to the silver Delta table, transform the data further and load it to the gold Delta tables, and then explore the semantic model and create relationships.
+## Screenshots
+![labfabric11](https://github.com/user-attachments/assets/5aed039f-4064-4437-a65a-9ccfa4859d4a)
+![labfabric11_1](https://github.com/user-attachments/assets/5d1b5c6a-ac99-4e6a-8fea-2d40baf20436)
+![labfabric11_2](https://github.com/user-attachments/assets/9b2e59fb-00a0-41b5-b250-0eaecb2a625c)
+![labfabric11_3](https://github.com/user-attachments/assets/edbcd3ec-92f0-4733-9627-4ece6e594ff9)
+![labfabric11_4](https://github.com/user-attachments/assets/8bc6e952-e2bb-416a-ae41-c1c19f34eb5b)
+![labfabric11_5](https://github.com/user-attachments/assets/1a59a02b-8be6-4755-b687-e0665c4f655b)
+![labfabric11_6](https://github.com/user-attachments/assets/c40a2c9a-7ab6-4f44-aadb-6289063a6d77)
+![labfabric11_7sql](https://github.com/user-attachments/assets/b9bb93b7-6a0f-4dff-9fa9-f145cff4f1eb)
+![labfabric11_7sql1](https://github.com/user-attachments/assets/b5bdedc1-f695-433e-8709-701bc5983897)
+![labfabric11_8](https://github.com/user-attachments/assets/92aa7b90-f7fd-4bea-a168-50abba8a0d14)
+![labfabric11_8_1](https://github.com/user-attachments/assets/98f7dd46-b6e1-4311-99c2-7e2445c95455)
+![labfabric11_8_2](https://github.com/user-attachments/assets/7ae67d55-c2e5-4930-903d-c1f37160e326)
+![labfabric11_8_3](https://github.com/user-attachments/assets/7f65cd41-83ba-4209-aef2-f8c2424fc5b9)
+![labfabric11_8_4](https://github.com/user-attachments/assets/8aae472a-61c7-47de-be3d-208629b9f995)
+![labfabric11_8_5](https://github.com/user-attachments/assets/1ae676c4-93d1-4a03-b111-ff736c47ebc3)
+![labfabric11_8_6](https://github.com/user-attachments/assets/8453be63-ea06-4d1c-b09f-eeb4f6f315a4)
+![labfabric11_8_7](https://github.com/user-attachments/assets/1c082399-14a2-4e47-bba7-13083a084248)
+![labfabric11_9](https://github.com/user-attachments/assets/2b9e7def-4ec4-4ac3-b1be-a8699c6455e2)
+![labfabric11_91](https://github.com/user-attachments/assets/e25c0497-8971-4bfa-8e16-fb7564b24f50)
+![labfabric11_10](https://github.com/user-attachments/assets/f55b1951-1320-4346-89c0-6e76ccb5116f)
