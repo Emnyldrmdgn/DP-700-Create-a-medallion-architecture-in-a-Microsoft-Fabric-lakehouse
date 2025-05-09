@@ -1,0 +1,2 @@
+# DP-700-Create-a-medallion-architecture-in-a-Microsoft-Fabric-lakehouse
+In this exercise you will build out a M.A in a Fabric lakehouse using NB. You will create a workspace, create a lakehouse, upload data to the bronze layer, transform the data and load it to the silver Delta table, transform the data further and load it to the gold Delta tables, and then explore the semantic model and create relationships.
